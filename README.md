@@ -3,6 +3,12 @@ Retail Intelligence Platform: End-to-End Sales \& Customer Analytics
 
 
 Project Overview
+Tools used (Power BI, SQL, Power Query, DAX)
+Key KPIs (Sales, Profit, Customer Count, Average Discount)
+Dashboard pages (Sales, Customer, Product, Regional, Executive)
+Insights
+Dashboard screenshots
+Power BI
 
 
 
